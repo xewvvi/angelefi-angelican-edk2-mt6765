@@ -18,7 +18,7 @@
 
 ### Core UEFI Components
 - [x] **Proof of Concept (PoC)**
-- [x] **Shim akaде Trampoline**
+- [x] **Shim aka Trampoline**
 - [x] **FBSL / SimpleFbDxe** (Display output)
 - [x] **GRUB / UEFI Shell / FreeBSD loader startup**
   - [x] **Ramdisk** (maps on `FS0:`)
